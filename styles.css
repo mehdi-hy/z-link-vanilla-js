@@ -1,0 +1,42 @@
+article {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  justify-content: center;
+}
+.form {
+  width: 30vw;
+  min-height: 20vh;
+  background-color: grey;
+  margin: 0 auto;
+  display: grid;
+  place-items: center;
+  text-align: center;
+}
+.label {
+  text-transform: uppercase;
+  margin: 0 1rem;
+}
+.text-area {
+  margin-top: 2rem;
+}
+span {
+  color: red;
+}
+.text1 {
+  width: 200px;
+  height: 100px;
+}
+
+.public-DraftEditorPlaceholder-inner {
+  background-color: red;
+  color: yellow;
+}
+
+.input {
+  text-align: left;
+  background-color: white;
+  height: 8rem;
+  width: 16rem;
+  margin: 2rem 0;
+}
